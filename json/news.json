@@ -1,0 +1,35 @@
+{
+  "news": [
+    {
+      "href": "./news/news_details1.html",
+      "imgSrc": "./pic/news/changbingxuan.jpg",
+      "newTitle": "1全国人大常委会副委员长吉炳轩一行来我司进行调研",
+      "newTime": "发布时间:2019-05",
+      "newText": "全国人大常委会副委员长吉炳轩一行来我司进行调研，潍坊市8委副书记、市长田庆盈等市领导陪同"
+    },{
+      "href": "./news/news_details1.html",
+      "imgSrc": "./pic/news/changbingxuan.jpg",
+      "newTitle": "2全国人大常委会副委员长吉炳轩一行来我司进行调研",
+      "newTime": "发布时间:2019-05",
+      "newText": "全国人大常委会副委员长吉炳轩一行来我司进行调研，潍坊市委副4书记、市长田庆盈等市领导陪同"
+    },{
+      "href": "./news/news_details1.html",
+      "imgSrc": "./pic/news/changbingxuan.jpg",
+      "newTitle": "3全国人大常委会副委员长吉炳轩一行来我司进行调研",
+      "newTime": "发布时间:2019-05",
+      "newText": "全国人大常委会副委员长吉炳轩一行来我司进行调研，潍坊市委副5书记、市长田庆盈等市领导陪同"
+    },{
+      "href": "./news/news_details1.html",
+      "imgSrc": "./pic/news/changbingxuan.jpg",
+      "newTitle": "4全国人大常委会副委员长吉炳轩一行来我司进行调研",
+      "newTime": "发布时间:2019-05",
+      "newText": "全国人大常委会副委员长吉炳轩一行来我司进行调研，潍坊市委6副书记、市长田庆盈等市领导陪同"
+    },{
+      "href": "./news/news_details1.html",
+      "imgSrc": "./pic/news/changbingxuan.jpg",
+      "newTitle": "5全国人大常委会副委员长吉炳轩一行来我司进行调研",
+      "newTime": "发布时间:2019-05",
+      "newText": "全国人大常委会副委员长吉炳轩一行来我司进行调研，潍坊市委副7书记、市长田庆盈等市领导陪同"
+    }
+  ]
+}
